@@ -104,7 +104,7 @@ void CONFIG_CONECTORS()
     
     LINE_MIDDLE = A5;
     
-    LINE_RIGHT = A6;
+    LINE_RIGHT = 4;
     
 }
 
